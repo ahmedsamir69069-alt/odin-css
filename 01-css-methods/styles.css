@@ -1,0 +1,8 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+   /* align-items: center;*/ /* does not work because it is not a felxbox i don't know what is that means or it is right or not */
+    text-align: center; 
+    font-weight: bold;
+}
